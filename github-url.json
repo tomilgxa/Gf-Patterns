@@ -1,0 +1,7 @@
+{
+    "flags": "-hrioaE",
+    "patterns": [
+        "github\\.com/[a-zA-Z0-9]+(-[a-zA-Z0-9]+)*"
+    ]
+}
+

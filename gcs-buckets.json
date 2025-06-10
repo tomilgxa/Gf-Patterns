@@ -1,0 +1,8 @@
+{
+    "flags": "-hrioaE",
+    "patterns": [
+        "storage\\.googleapis\\.com/[a-z0-9._-]+",
+        "[a-z0-9._-]+\\.storage\\.googleapis\\.com"
+    ]
+}
+

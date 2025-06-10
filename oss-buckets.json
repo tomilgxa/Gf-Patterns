@@ -1,0 +1,14 @@
+{
+    "flags": "-hrioaE",
+    "patterns": [
+        "[a-z0-9-]+\\.oss-[a-z0-9-]+\\.aliyuncs\\.com",
+        "[a-z0-9-]+-[0-9]+\\.cos\\.[a-z0-9-]+\\.myqcloud\\.com",
+        "[a-z0-9-]+\\.[a-z0-9-]+\\.bcebos\\.com",
+        "[a-z0-9-]+\\.tos-[a-z0-9-]+\\.volces\\.com",
+        "[a-z0-9-]+\\.tos-s3-[a-z0-9-]+\\.volces\\.com",
+        "[a-z0-9-]+\\.s3\\.[a-z0-9-]+\\.jdcloud-oss\\.com",
+        "[a-z0-9-]+\\.(oss|s3)\\.[a-z0-9-]+\\.jcloudcs\\.com",
+        "[a-z0-9-]+\\.obs\\.[a-z0-9-]+\\.myhuaweicloud\\.com"
+    ]
+}
+
